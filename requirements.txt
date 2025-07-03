@@ -1,0 +1,15 @@
+# requirements.txt
+streamlit
+pandas
+numpy
+selenium
+beautifulsoup4
+spacy
+nltk
+matplotlib
+wordcloud
+torch
+transformers
+google-generativeai
+gensim
+scikit-learn

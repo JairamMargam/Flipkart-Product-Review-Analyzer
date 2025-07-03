@@ -1,16 +1,15 @@
 streamlit
 pandas
 numpy
-selenium
-beautifulsoup4
 spacy
 nltk
-matplotlib
-wordcloud
-torch
-transformers
-google-generativeai
-gensim<4.3.2
-scikit-learn
 emoji
+wordcloud
+selenium
+beautifulsoup4
+scikit-learn
+transformers
+gensim
+google-generativeai
+matplotlib
 
